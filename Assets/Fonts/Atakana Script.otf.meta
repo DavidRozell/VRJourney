@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d9e74586614fef4c839ec81a8e9ed26
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Atakana Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2da59b3d44fb57b46a616526f9a155d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
